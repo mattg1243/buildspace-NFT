@@ -6,6 +6,6 @@ import "hardhat/console.sol";
 
 contract MyEpicNFT {
     constructor() {
-        console.log("This is my NFT contract. Whoa!");
+        console.log("Yo my contract is on the block(chain)");
     }
 }
